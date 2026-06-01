@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f1a,50:1a1f3a,100:64ffda&height=120&section=header&text=&fontColor=64ffda"/>
+<!-- HERO BANNER with animated gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24,30&text=Joel%20Smith&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Backend%20Engineer%20|%20Problem%20Solver&descAlignY=55&descSize=18"/>
 
 <!-- AVATAR & STATUS -->
-<img src="https://avatars.githubusercontent.com/JOEL-SMITH" width="120px" style="border-radius:50%;border:3px solid #64ffda;" alt="Joel Smith"/>
+<img src="https://avatars.githubusercontent.com/joelsmith-00" width="120px" style="border-radius:50%;border:3px solid #64ffda;" alt="Joel Smith"/>
 
-<!-- NAME -->
+<!-- NAME & TYPING ANIMATION -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Joel+Smith;AI+%26+Data+Science+Student;Backend+Developer;ML+Engineer" alt="Joel Smith" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=AI+Developer;Backend+Engineer;FastAPI+Enthusiast;Hackathon+Team+Leader;Building+Intelligent+Systems" alt="Joel Smith" />
 </h1>
 
 <!-- BIO -->
@@ -26,9 +26,12 @@
 </p>
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=JOEL-SMITH&label=Profile+Views&color=64ffda&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=joelsmith-00&label=Profile+Views&color=64ffda&style=flat-square" alt="profile views"/>
 
 <br/><br/>
+
+<!-- GLOWING DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212259275-cf9f6d2d-75f6-4bca-8f2d-0fcbf92f95f.gif" width="100%">
 
 ---
 
@@ -37,15 +40,24 @@
 
 ```typescript
 const joel = {
-  name        : "Joel Smith",
-  role        : "AI & Data Science Student",
-  focus       : ["AI Automation", "Backend Development", "Data Science"],
-  languages   : ["Python", "TypeScript", "JavaScript", "Java", "C++"],
-  learning    : ["LLMs", "RAG Pipelines", "MLOps"],
-  funFact     : "I debug with console.log and I'm not ashamed 🔥",
-  available   : true,
+  name              : "Joel Smith",
+  role              : "AI & Backend Developer",
+  focus             : ["AI Automation", "NLP", "Backend Systems"],
+  languages         : ["Python", "TypeScript", "JavaScript", "Java", "C++"],
+  currentlyLearning : ["LLMs", "RAG Pipelines", "MLOps"],
+  leadership        : true,
+  mentoring         : "Trained 5 junior students in AI development",
+  hackathons        : "Team Leader in multiple national hackathons",
+  available         : true,
 };
 ```
+
+---
+
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
@@ -74,6 +86,7 @@ const joel = {
 ![Node.js](https://img.shields.io/badge/Node.js-0d0f1a?style=for-the-badge&logo=node.js&logoColor=64ffda)
 ![Django](https://img.shields.io/badge/Django-0d0f1a?style=for-the-badge&logo=django&logoColor=64ffda)
 ![Flask](https://img.shields.io/badge/Flask-0d0f1a?style=for-the-badge&logo=flask&logoColor=e2e8f0)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0f1a?style=for-the-badge&logo=fastapi&logoColor=64ffda)
 
 **AI / ML**
 
@@ -102,20 +115,37 @@ const joel = {
 
 ---
 
+<!-- GLOWING DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212259275-cf9f6d2d-75f6-4bca-8f2d-0fcbf92f95f.gif" width="100%">
+
+---
+
+<!-- FEATURED PROJECTS -->
+### `> projects --featured`
+
+| 🚀 Project | 📝 Description |
+|---|---|
+| **LUMI – Voice Enabled AI Assistant** | Conversational AI assistant with voice interface and NLP capabilities |
+| **Fisherman Border Detection System** | Computer vision system for automated border/boundary detection |
+| **SQL Flow Visualizer** | Tool to visually map and debug complex SQL query flows |
+| **Study Buddy PDF Analyzer** | AI-powered PDF analyzer for smart study and document Q&A |
+
+---
+
 <!-- GITHUB STATS -->
-### `> git stats --user joel-smith`
+### `> git stats --user joelsmith-00`
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JOEL-SMITH&show_icons=true&theme=transparent&hide_border=true&title_color=64ffda&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d0f1a&border_color=1e2340&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOEL-SMITH&layout=compact&theme=transparent&hide_border=true&title_color=64ffda&text_color=e2e8f0&bg_color=0d0f1a&langs_count=6"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joelsmith-00&show_icons=true&theme=transparent&hide_border=true&title_color=64ffda&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d0f1a&border_color=1e2340&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsmith-00&layout=compact&theme=transparent&hide_border=true&title_color=64ffda&text_color=e2e8f0&bg_color=0d0f1a&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOEL-SMITH&theme=transparent&hide_border=true&stroke=1e2340&ring=64ffda&fire=a78bfa&currStreakLabel=64ffda&sideLabels=e2e8f0&dates=4a5568&background=0d0f1a&currStreakNum=e2e8f0&sideNums=e2e8f0"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelsmith-00&theme=transparent&hide_border=true&stroke=1e2340&ring=64ffda&fire=a78bfa&currStreakLabel=64ffda&sideLabels=e2e8f0&dates=4a5568&background=0d0f1a&currStreakNum=e2e8f0&sideNums=e2e8f0"/>
 </p>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JOEL-SMITH&bg_color=0d0f1a&color=64ffda&line=a78bfa&point=38bdf8&area=true&area_color=1e2340&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joelsmith-00&bg_color=0d0f1a&color=64ffda&line=a78bfa&point=38bdf8&area=true&area_color=1e2340&hide_border=true" width="100%"/>
 
 ---
 
@@ -123,8 +153,13 @@ const joel = {
 ### `> achievements --display`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOEL-SMITH&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=64ffda"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=joelsmith-00&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=64ffda"/>
 </p>
+
+---
+
+<!-- GLOWING DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212259275-cf9f6d2d-75f6-4bca-8f2d-0fcbf92f95f.gif" width="100%">
 
 ---
 
@@ -155,7 +190,7 @@ const joel = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:64ffda,50:1a1f3a,100:0d0f1a&height=80&section=footer"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=4a5568&center=true&vCenter=true&width=400&lines=crafted+with+%3C3+by+Joel+Smith+%C2%B7+2025" alt="footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=1000&color=4a5568&center=true&vCenter=true&width=400&lines=crafted+with+%3C3+by+Joel+Smith+%C2%B7+2025" alt="footer"/>
 </p>
 
 </div>
