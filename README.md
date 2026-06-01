@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Full+Stack+%7C+Backend+%7C+NLP+Developer+%F0%9F%9A%80;Hackathon+Finalist+%7C+Innovator+%7C+Builder+%F0%9F%8F%86;District+Handball+%7C+State+Wushu+Athlete+%F0%9F%A5%8B)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=joelsmithm&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/joelsmithm)
-[![GitHub followers](https://img.shields.io/github/followers/joelsmithm?style=flat-square&color=bf91f3&logo=github&logoColor=white)](https://github.com/joelsmithm)
+[![Profile Views](https://komarev.com/ghpvc/?username=joelsmith-00&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/joelsmith-00)
+[![GitHub followers](https://img.shields.io/github/followers/joelsmith-00?style=flat-square&color=bf91f3&logo=github&logoColor=white)](https://github.com/joelsmith-00)
 
 </div>
 
@@ -100,11 +100,11 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/joelsmithm">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joelsmithm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/joelsmith-00">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joelsmith-00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/joelsmithm">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsmithm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/joelsmith-00">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsmith-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -115,7 +115,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joelsmithm&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joelsmith-00&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -125,7 +125,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joelsmithm&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/joelsmithm)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joelsmith-00&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/joelsmith-00)
 
 </div>
 
@@ -135,7 +135,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=joelsmithm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/joelsmithm)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=joelsmith-00&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/joelsmith-00)
 
 </div>
 
@@ -193,12 +193,12 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🤖 **LUMI Voice AI Assistant**](https://github.com/joelsmithm) | Python · FastAPI · NLP · Speech | 🏆 3rd Prize – Mindcraft International Tech Expo; Voice-enabled AI assistant with real-time NLP processing; Presented at national technical expo |
-| [🌐 **NetSim Vision**](https://github.com/joelsmithm) | Python · Networking · Simulation · IoT | Full network topology simulator with real-time packet visualization; Supports multiple routing protocol simulations |
-| [📄 **Study Buddy PDF Analyzer**](https://github.com/joelsmithm) | Python · NLP · FastAPI · MongoDB | AI-powered document Q&A system; Extracts insights and answers queries from academic PDFs using NLP pipeline |
-| [📡 **Fisherman Border Detection System**](https://github.com/joelsmithm) | Python · IoT · GPS · AI | Safety system alerting fishermen of maritime border proximity; Combines GPS, IoT sensors, and AI logic |
-| [🗄️ **SQL Flow Visualizer**](https://github.com/joelsmithm) | Python · SQL · Data Viz | Visualizes SQL query execution flow and schema relationships; Educational tool for database learners |
-| [🤝 **AI Data Harmony**](https://github.com/joelsmithm) | Python · ML · Pandas · REST API | Automated data preprocessing and harmonization pipeline; Reduces manual data cleaning effort significantly |
+| [🤖 **LUMI Voice AI Assistant**](https://github.com/joelsmith-00) | Python · FastAPI · NLP · Speech | 🏆 3rd Prize – Mindcraft International Tech Expo; Voice-enabled AI assistant with real-time NLP processing; Presented at national technical expo |
+| [🌐 **NetSim Vision**](https://github.com/joelsmith-00) | Python · Networking · Simulation · IoT | Full network topology simulator with real-time packet visualization; Supports multiple routing protocol simulations |
+| [📄 **Study Buddy PDF Analyzer**](https://github.com/joelsmith-00) | Python · NLP · FastAPI · MongoDB | AI-powered document Q&A system; Extracts insights and answers queries from academic PDFs using NLP pipeline |
+| [📡 **Fisherman Border Detection System**](https://github.com/joelsmith-00) | Python · IoT · GPS · AI | Safety system alerting fishermen of maritime border proximity; Combines GPS, IoT sensors, and AI logic |
+| [🗄️ **SQL Flow Visualizer**](https://github.com/joelsmith-00) | Python · SQL · Data Viz | Visualizes SQL query execution flow and schema relationships; Educational tool for database learners |
+| [🤝 **AI Data Harmony**](https://github.com/joelsmith-00) | Python · ML · Pandas · REST API | Automated data preprocessing and harmonization pipeline; Reduces manual data cleaning effort significantly |
 
 </div>
 
@@ -272,10 +272,10 @@ print(me.motto())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelsmithm)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joelsmithm)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joelsmithm@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://github.com/joelsmithm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelsmith-00)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joelsmith-00)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joelsmith-00@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://github.com/joelsmith-00)
 
 </div>
 
