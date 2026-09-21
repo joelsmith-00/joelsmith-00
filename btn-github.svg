@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="42" viewBox="0 0 131 42" role="img" aria-label="GitHub">
+<title>GitHub</title>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".40"/><stop offset=".5" stop-color="#fff" stop-opacity=".10"/><stop offset="1" stop-color="#14b8a6" stop-opacity=".40"/></linearGradient></defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect x=".5" y=".5" width="130" height="41" rx="21" fill="#0b0f15" stroke="url(#b)"/>
+<g transform="translate(-6,0)"><path d="M30 15 L24 21 L30 27 M38 15 L44 21 L38 27" fill="none" stroke="#cbd5e1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="46" y="26" font-size="13" font-weight="600" fill="#e6edf3">GitHub</text>
+</svg>

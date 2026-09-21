@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="456" viewBox="0 0 830 456" role="img" aria-label="Recognition">
+<title>Recognition</title>
+<defs>
+  <radialGradient id="glowP"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".26"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowT"><stop offset="0" stop-color="#14b8a6" stop-opacity=".20"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#8b5cf6" stop-opacity=".45"/>
+    <stop offset=".5" stop-color="#ffffff" stop-opacity=".07"/>
+    <stop offset="1" stop-color="#14b8a6" stop-opacity=".45"/>
+  </linearGradient>
+  <linearGradient id="nameFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#c9d3ff"/></linearGradient>
+  <clipPath id="clip"><rect x=".5" y=".5" width="829" height="455" rx="18"/></clipPath>
+<linearGradient id="rg0" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fbbf24" stop-opacity=".13"/><stop offset=".55" stop-color="#fbbf24" stop-opacity="0"/></linearGradient>
+<linearGradient id="rg1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60a5fa" stop-opacity=".13"/><stop offset=".55" stop-color="#60a5fa" stop-opacity="0"/></linearGradient>
+<linearGradient id="rg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf" stop-opacity=".13"/><stop offset=".55" stop-color="#2dd4bf" stop-opacity="0"/></linearGradient>
+<linearGradient id="rg3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".13"/><stop offset=".55" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>
+<linearGradient id="rg4" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6" stop-opacity=".13"/><stop offset=".55" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
+<linearGradient id="rg5" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fb923c" stop-opacity=".13"/><stop offset=".55" stop-color="#fb923c" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+  @media (prefers-reduced-motion: reduce){ .pulse{animation:none!important} }
+</style>
+<rect x=".5" y=".5" width="829" height="455" rx="18" fill="#0b0f15"/>
+<g clip-path="url(#clip)">
+  <circle cx="100" cy="9" r="332" fill="url(#glowP)"></circle>
+  <circle cx="764" cy="447" r="299" fill="url(#glowT)"></circle>
+</g>
+<rect x=".5" y=".5" width="829" height="455" rx="18" fill="none" stroke="url(#bd)"/>
+<text x="415.0" y="40" text-anchor="middle" font-size="10" font-weight="600" letter-spacing="3.6" fill="#6b7683">RECOGNITION</text>
+<rect x="24" y="70" width="782" height="54" rx="12" fill="url(#rg0)"/>
+<rect x="24.5" y="70.5" width="781" height="53" rx="12" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".08"/>
+<circle cx="47" cy="97" r="3.5" fill="#fbbf24"/>
+<text x="64" y="94" font-size="14" font-weight="600" fill="#e6edf3">3rd Prize · Mindcraft International Tech Expo</text>
+<text x="64" y="112" font-size="11.5" fill="#8b95a3">Presented the LUMI Voice AI Assistant at a national technical expo</text>
+<text class="mono" x="784" y="101" text-anchor="end" font-size="10" fill="#fbbf24" fill-opacity=".9">LUMI</text>
+<rect x="24" y="132" width="782" height="54" rx="12" fill="url(#rg1)"/>
+<rect x="24.5" y="132.5" width="781" height="53" rx="12" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".08"/>
+<circle cx="47" cy="159" r="3.5" fill="#60a5fa"/>
+<text x="64" y="156" font-size="14" font-weight="600" fill="#e6edf3">Smart India Hackathon · Round 2</text>
+<text x="64" y="174" font-size="11.5" fill="#8b95a3">Led a team through a national-level problem statement</text>
+<text class="mono" x="784" y="163" text-anchor="end" font-size="10" fill="#60a5fa" fill-opacity=".9">Team lead</text>
+<rect x="24" y="194" width="782" height="54" rx="12" fill="url(#rg2)"/>
+<rect x="24.5" y="194.5" width="781" height="53" rx="12" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".08"/>
+<circle cx="47" cy="221" r="3.5" fill="#2dd4bf"/>
+<text x="64" y="218" font-size="14" font-weight="600" fill="#e6edf3">AI for Bharat Hackathon · Round 2</text>
+<text x="64" y="236" font-size="11.5" fill="#8b95a3">Qualified for the second round as team leader in a national AI competition</text>
+<text class="mono" x="784" y="225" text-anchor="end" font-size="10" fill="#2dd4bf" fill-opacity=".9">Team lead</text>
+<rect x="24" y="256" width="782" height="54" rx="12" fill="url(#rg3)"/>
+<rect x="24.5" y="256.5" width="781" height="53" rx="12" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".08"/>
+<circle cx="47" cy="283" r="3.5" fill="#8b5cf6"/>
+<text x="64" y="280" font-size="14" font-weight="600" fill="#e6edf3">Triwizardathon 1.0 · Final Round</text>
+<text x="64" y="298" font-size="11.5" fill="#8b95a3">Reached the finals of a multi-disciplinary hackathon</text>
+<text class="mono" x="784" y="287" text-anchor="end" font-size="10" fill="#8b5cf6" fill-opacity=".9">Finalist</text>
+<rect x="24" y="318" width="782" height="54" rx="12" fill="url(#rg4)"/>
+<rect x="24.5" y="318.5" width="781" height="53" rx="12" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".08"/>
+<circle cx="47" cy="345" r="3.5" fill="#f472b6"/>
+<text x="64" y="342" font-size="14" font-weight="600" fill="#e6edf3">AMD Ryzen Slingshot · GeeksforGeeks Hackathon</text>
+<text x="64" y="360" font-size="11.5" fill="#8b95a3">Participant in flagship innovation and coding challenges</text>
+<text class="mono" x="784" y="349" text-anchor="end" font-size="10" fill="#f472b6" fill-opacity=".9">Participant</text>
+<rect x="24" y="380" width="782" height="54" rx="12" fill="url(#rg5)"/>
+<rect x="24.5" y="380.5" width="781" height="53" rx="12" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".08"/>
+<circle cx="47" cy="407" r="3.5" fill="#fb923c"/>
+<text x="64" y="404" font-size="14" font-weight="600" fill="#e6edf3">District Handball · State Wushu</text>
+<text x="64" y="422" font-size="11.5" fill="#8b95a3">District-level handball player and state-level Wushu competitor</text>
+<text class="mono" x="784" y="411" text-anchor="end" font-size="10" fill="#fb923c" fill-opacity=".9">Athlete</text>
+</svg>
